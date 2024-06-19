@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Idriss El</h1>
+<h1 align="center">Hi 👋, I'm Idriss El Abidi</h1>
 <h3 align="center">I hold a bachelor's degree in Computer Science and am currently a Software Engineering student at National School of Computer Science and Systems Analysis (ENSIAS) Rabat, Morocco.</h3>
 
 - 👨‍💻 I'm passionate about **web development and artificial intelligence**
 
-- 🔭 I’m currently working on **LLMs Projects**
+- 🔭 I’m currently learning about **LLMs**
+
+- ⚡ Additionally, **I actively engage in hackathons and coding competitions to challenge myself and enhance my problem-solving skills.**
 
 - 📫 How to reach me **idriselabidi@gmail.com**
 
-- ⚡ Additionally, **I actively engage in hackathons and coding competitions to challenge myself and enhance my problem-solving skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
