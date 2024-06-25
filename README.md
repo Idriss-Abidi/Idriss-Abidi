@@ -114,7 +114,7 @@
   </a>
   <!-- Hugging Face -->
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
   </a>
   <!-- Eclipse -->
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
@@ -134,8 +134,7 @@
   </a>
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg
-" alt="php" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <!-- Streamlit -->
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
