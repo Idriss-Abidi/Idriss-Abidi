@@ -156,4 +156,9 @@
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
+  <!-- Canva -->
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+</a>
+
 </p>
