@@ -1,10 +1,11 @@
 <picture>
 <img width="100%" src="cover.gif"></img>
 </picture>
-#
+
 <h1 align="center">Hi 👋, I'm Idriss El Abidi</h1>
+
 <h3 align="center">I hold a bachelor's degree in Computer Science and am currently a Software Engineering student at National School of Computer Science and Systems Analysis (ENSIAS) Rabat, Morocco.</h3>
-#
+
 
 - 👨‍💻 I'm passionate about **web development and artificial intelligence**
 
