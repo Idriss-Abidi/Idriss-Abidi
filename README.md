@@ -164,13 +164,11 @@
 <a href="https://www.uml.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="uml" width="40" height="40"/>
 </a>
-<!--Airbyte -->
 <a href="https://airbyte.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airbyte/airbyte-original.svg" alt="Airbyte" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/65680112?s=200&v=4" alt="Airbyte" width="40" height="40"/>
 </a>
-<!-- dbt -->
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
 </a>
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
