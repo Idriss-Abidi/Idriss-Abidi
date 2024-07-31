@@ -165,7 +165,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="uml" width="40" height="40"/>
 </a>
 <a href="https://airbyte.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/65680112?s=200&v=4" alt="Airbyte" width="40" height="40"/>
+  <img src="https://uploads-ssl.webflow.com/619e4aa39b9f755b972f7f1d/61b92b2217468242d6a17135_Airbyte%20Logos%20Icon%20Colored.svg" alt="Airbyte" width="40" height="40"/>
 </a>
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
