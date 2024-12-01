@@ -125,6 +125,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <!-- MariaDB -->
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
+</a>
     <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -168,6 +172,10 @@
 <!--   dbt -->
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
+</a>
+<!-- Metabase -->
+<a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="Metabase" width="40" height="40"/>
 </a>
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
